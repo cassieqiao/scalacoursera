@@ -3,7 +3,7 @@ package demo
 /**
  * Created by Cassie on 6/13/2015.
  */
-object hello {
+object week1 {
   def main(args: Array[String]) = {
 
     println(pascal(4,6))
